@@ -10,3 +10,4 @@ Step 1: Download the zip file or use git clone
 * commit 1 
 commit 2
 New commit 1
+New commit 2
