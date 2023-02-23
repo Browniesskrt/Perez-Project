@@ -6,8 +6,3 @@ My name is Christian Allen Perez 20 years old. Lives in Tagbilaran City, Bohol.
 printf("Hello World!");
 ## How to Install
 Step 1: Download the zip file or use git clone
-## First commit
-* commit 1 
-commit 2
-New commit 1
-New commit 2
